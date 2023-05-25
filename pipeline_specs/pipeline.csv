@@ -1,0 +1,5 @@
+shader,shader_type,weights_dir
+lens_spatial_5,train,-
+cmap,train,-
+bloom_multires,train,-
+highfreq,train,-
